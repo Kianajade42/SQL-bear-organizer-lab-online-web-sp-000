@@ -7,5 +7,3 @@
  INSERT INTO bears VALUES (6,"Grinch", 21, "M", "white", "mean", 1);
  INSERT INTO bears VALUES (7,"Wendy", 17, "F", "auburn", "lazy", 1);
  INSERT INTO bears VALUES (8,null, 14, "F", "brown", "scared", 1);
-
- 
